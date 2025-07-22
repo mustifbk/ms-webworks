@@ -299,7 +299,7 @@ const Footer = () => {
             <div className="container mx-auto text-center px-4 sm:px-6 lg:px-8">
                 <p className="text-lg mb-4">&copy; 2025 Adınız Soyadınız. Tüm Hakları Saklıdır.</p>
                 <div className="flex justify-center space-x-8 text-md">
-                    <a href="#" className="text-gray-400 hover:text-white transition duration-300">Gizlilik Politikası</a>
+                    <a href="#" className="text-gray-400 hover:text-white transition duration-300">Gizlilikk Politikası</a>
                     <a href="#" className="text-gray-400 hover:text-white transition duration-300">Kullanım Koşulları</a>
                 </div>
             </div>
