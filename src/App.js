@@ -311,7 +311,6 @@ const Footer = () => {
 const App = () => {
     return (
         <div className="antialiased">
-            <style>{globalStyles}</style> {/* Global styles applied here */}
             <Header />
             <Hero />
             <About />
