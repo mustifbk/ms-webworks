@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App</code> and save to reload.
+          Merhaba, dünya! Bu, React uygulamanızın başlangıç sayfasıdır.
         </p>
         <a
           className="App-link"
