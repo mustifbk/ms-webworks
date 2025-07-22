@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './App.css'; // Importing Tailwind CSS styles
 
 // Inline CSS for custom styles and animations
 const globalStyles = `
